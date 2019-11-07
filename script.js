@@ -266,7 +266,7 @@ function habil() {
                        </div>
                        <div class="col">
                             <div class="progress">
-                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 70%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 65%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                        </div>
                        </div> <br>
@@ -311,6 +311,17 @@ function habil() {
                        <div class="col">
                             <div class="progress">
                             <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 50%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                       </div>
+                       </div> <br> 
+                       
+                       <div class="row">
+                       <div class="col">
+                           <b>AutoCad</b>
+                       </div>
+                       <div class="col">
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 85%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                        </div>
                        </div>`
