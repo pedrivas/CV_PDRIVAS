@@ -32,9 +32,10 @@ function contato() {
 }
 
 function resumo() {
-    sec.style.width = "350px"
+    sec.style.width = "650px"
     res.innerHTML = ""
-    dados.innerHTML =   `Exemplo resumo
+    dados.innerHTML =   `<p>Experiência de 4 anos em atividades administrativas e elaboração de projetos técnicos de engenharia, sendo 1 ano na área de prevenção e combate a incêncio e pânico e 3 anos em HVAC.</p>
+    <p>Atuando desde 04/2018 com ERP TOTVS Protheus, desenvolvendo rotinas específicas para atender a necessidade de clientes e tendo contato diário com lógica de negócio e tecnologias de modelos de dados, Web Services, API, Cloud e Frameworks de desenvolvimento.</p>
                         `
 }
 
