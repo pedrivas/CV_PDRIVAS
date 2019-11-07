@@ -107,3 +107,217 @@ function formAcad(){
                          <h5>01/2015 - 12/2019</h5>`
 }
 
+function hobbies(){
+    res.innerHTML = ""
+    sec.style.width = "400px"
+    sec.style.heigth = "500px"
+    dados.innerHTML =   `<div class="accordion" id="accordionExample">
+                         <div class="card">
+                         <div class="card-header" id="headingOne">
+                             <h5 class="mb-0">
+                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                 Livros
+                             </button>
+                             </h5>
+                         </div>
+                     
+                         <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                             <div class="card-body">
+                                O Guia do Mochileiro das Galáxias<br><br>
+                                A Torre Negra<br><br>
+                                O Hobbit
+                             </div>
+                         </div>
+                         </div>
+
+                         <div class="card">
+                         <div class="card-header" id="headingTwo">
+                             <h5 class="mb-0">
+                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                 Música
+                             </button>
+                             </h5>
+                         </div>
+                         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                             <div class="card-body">
+                                Creedance Clearwater Revival<br><br>
+                                Queen<br><br>
+                                Criolo
+                             </div>
+                         </div>
+                         </div>
+
+                         <div class="card">
+                         <div class="card-header" id="headingThree">
+                             <h5 class="mb-0">
+                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                 Séries
+                             </button>
+                             </h5>
+                         </div>
+                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                             <div class="card-body">
+                                Breaking Bad<br><br>
+                                Game of Thrones<br><br>
+                                Rick And Morty
+                             </div>
+                         </div>
+                         </div>
+
+                         <div class="card">
+                         <div class="card-header" id="headingFour">
+                             <h5 class="mb-0">
+                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                 Games
+                             </button>
+                             </h5>
+                         </div>
+                         <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                             <div class="card-body">
+                                The Legend Of Zelda<br><br>
+                                God of War<br><br>
+                                EarthBound
+                             </div>
+                         </div>
+                         </div>
+
+                         <div class="card">
+                         <div class="card-header" id="headingFive">
+                             <h5 class="mb-0">
+                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                 Robótica
+                             </button>
+                             </h5>
+                         </div>
+                         <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                             <div class="card-body">
+                                Arduino<br><br>
+                                Raspberry Pi
+                             </div>
+                         </div>
+                         </div>
+
+                         </div>`   
+}
+
+function habil() {
+    res.innerHTML = ""
+    sec.style.width = "400px"
+    dados.innerHTML = `<div class="container">
+                       <div class="row">
+                       <div class="col">
+                           <b>javaScript</b>
+                       </div>
+                       <div class="col">
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 40%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                       </div>
+                       </div> <br>
+
+                       <div class="row">
+                       <div class="col">
+                           <b>CSS</b>
+                       </div>
+                       <div class="col">
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 40%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                       </div>
+                       </div><br>
+                       
+                       <div class="row">
+                       <div class="col">
+                           <b>HTML5</b>
+                       </div>
+                       <div class="col">
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 40%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                       </div>
+                       </div><br>
+                       
+                       <div class="row">
+                       <div class="col">
+                           <b>Excel</b>
+                       </div>
+                       <div class="col">
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 100%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                       </div>
+                       </div> <br>
+                       
+                       <div class="row">
+                       <div class="col">
+                           <b>Python</b>
+                       </div>
+                       <div class="col">
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 50%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                       </div>
+                       </div> <br>
+                       
+                       <div class="row">
+                       <div class="col">
+                           <b>SQL</b>
+                       </div>
+                       <div class="col">
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 70%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                       </div>
+                       </div> <br>
+                       
+                       <div class="row">
+                       <div class="col">
+                           <b>AdvPL</b>
+                       </div>
+                       <div class="col">
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 80%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                       </div>
+                       </div> <br>
+                       
+                       <div class="row">
+                       <div class="col">
+                           <b>Angular</b>
+                       </div>
+                       <div class="col">
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 30%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                       </div>
+                       </div> <br>
+                       
+                       <div class="row">
+                       <div class="col">
+                           <b>Git</b>
+                       </div>
+                       <div class="col">
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 40%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                       </div>
+                       </div> <br>
+                       
+                       <div class="row">
+                       <div class="col">
+                           <b>BootStrap</b>
+                       </div>
+                       <div class="col">
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 50%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                       </div>
+                       </div>`
+                       
+}
+
+function idioma() {
+    res.innerHTML = ""
+    sec.style.width = "400px"
+    dados.innerHTML = "<h2>Inglês - Avançado</h2>"
+}
