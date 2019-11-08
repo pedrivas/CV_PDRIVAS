@@ -34,9 +34,11 @@ function contato() {
 function resumo() {
     sec.style.width = "650px"
     res.innerHTML = ""
-    dados.innerHTML =   `<p>Experiência de 4 anos em atividades administrativas e elaboração de projetos técnicos de engenharia, sendo 1 ano na área de prevenção e combate a incêncio e pânico e 3 anos em HVAC.</p>
-    <p>Atuando desde 04/2018 com ERP TOTVS Protheus, desenvolvendo rotinas específicas para atender a necessidade de clientes e tendo contato diário com lógica de negócio e tecnologias de modelos de dados, Web Services, API, Cloud e Frameworks de desenvolvimento.</p>
-                        `
+    dados.innerHTML =   `<h3><b>Resumo</b></h3>
+                         <p>Experiência de 4 anos em atividades administrativas e elaboração de projetos técnicos de engenharia, sendo 1 ano na área de prevenção e combate a incêncio e pânico e 3 anos em HVAC.</p>
+                         <p>Atuando desde 04/2018 com ERP TOTVS Protheus, desenvolvendo rotinas específicas para atender a necessidade de clientes e tendo contato diário com lógica de negócio e tecnologias de modelos de dados, Web Services, API, Cloud e Frameworks de desenvolvimento.</p>
+                         <p>Minhas experiências de vida e aptidões me transformaram em uma pessoa inconformada, apaixonada por tecnologia e de perfil analítico. Não tenho medo de errar e adoro desenvolver soluções criativas.</p>                   
+                         <p>Gosto de compartilhar conhecimentos e tenho a característica de criar laços facilmente com as pessoas que eu convivo. </p>`
 }
 
 function exp(){
@@ -301,8 +303,8 @@ function idioma() {
 function next() {
     res.innerHTML = ""
     sec.style.width = "700px"
-    dados.innerHTML =   `<h2>Próximos Passos</h2>
-                         <p>Sou apaixonado por tecnologia. Acompanhando o ritmo em que novas soluções e ferramentas surgem, sempre estou me atualizando. Também irei cursar um MBA em Business Analytics e Big Data. </p>
-                         <p>Adoro elaborar soluções criativas e resolver problemas. Desejo uma oportunidade de utilizar todo o meu potencial para desenvolver grandes projetos que impactem positivamente as pessoas. </p>
+    dados.innerHTML =   `<h2><b>Próximos Passos</b></h2>
+                         <p>Acompanhando o ritmo em que novas soluções e ferramentas surgem, sempre estou me atualizando. Irei cursar um MBA em Business Analytics e Big Data. </p>
+                         <p>Busco uma oportunidade de utilizar todo o meu potencial para ser responsável pelo desenvolvimento de grandes projetos que melhorem a qualidade de vida as pessoas. </p>
                          `
 }
