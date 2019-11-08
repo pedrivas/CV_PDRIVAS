@@ -64,7 +64,7 @@ function descri() {
                          <img style="width:200px; heigth:400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDyhYt4HR9tEh0SlCPB3iDQhsrPT0gT-GtztjtKHlr06henx-C&s" alt=""> 
                          <br>
                          <h4><b>Técnico de Implantação de Sistemas</b> <br> </h4>
-                         <h5>04/2018 - 10/2018</h5>
+                         <h5>04/2018 - Até o momento</h5>
                          <p>Implantação, customização e desenvolvimento de rotinas de sistemas ERP.</p>
                          <h4><b>Estagiário de Implantação de Sistemas</b> <br> </h4>
                          <h5>04/2018 - 10/2018</h5>
@@ -117,16 +117,15 @@ function hobbies(){
                          <div class="card-header" id="headingOne">
                              <h5 class="mb-0">
                              <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                 Livros
+                                 Esportes
                              </button>
                              </h5>
                          </div>
                      
                          <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                              <div class="card-body">
-                                O Guia do Mochileiro das Galáxias<br><br>
-                                A Torre Negra<br><br>
-                                O Hobbit
+                                Stand Up Paddle<br><br>
+                                Slackline
                              </div>
                          </div>
                          </div>
@@ -141,43 +140,8 @@ function hobbies(){
                          </div>
                          <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                              <div class="card-body">
-                                Creedance Clearwater Revival<br><br>
-                                Queen<br><br>
-                                Criolo
-                             </div>
-                         </div>
-                         </div>
-
-                         <div class="card">
-                         <div class="card-header" id="headingThree">
-                             <h5 class="mb-0">
-                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                 Séries
-                             </button>
-                             </h5>
-                         </div>
-                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                             <div class="card-body">
-                                Breaking Bad<br><br>
-                                Game of Thrones<br><br>
-                                Rick And Morty
-                             </div>
-                         </div>
-                         </div>
-
-                         <div class="card">
-                         <div class="card-header" id="headingFour">
-                             <h5 class="mb-0">
-                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                 Games
-                             </button>
-                             </h5>
-                         </div>
-                         <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
-                             <div class="card-body">
-                                The Legend Of Zelda<br><br>
-                                God of War<br><br>
-                                EarthBound
+                                Bateria<br><br>
+                                Cajón
                              </div>
                          </div>
                          </div>
@@ -332,4 +296,13 @@ function idioma() {
     res.innerHTML = ""
     sec.style.width = "400px"
     dados.innerHTML = "<h2>Inglês - Avançado</h2>"
+}
+
+function next() {
+    res.innerHTML = ""
+    sec.style.width = "700px"
+    dados.innerHTML =   `<h2>Próximos Passos</h2>
+                         <p>Como um apaixonado por tecnologia, estou sempre me atualizando, irei cursar um MBA em Business Analytics e Big Data. Adoro elaborar soluções criativas e resolver problemas. </p>
+                         <p>Desejo uma oportunidade de utilizar todo o meu potencial para desenvolver grandes projetos que impactem positivamente as pessoas. </p>
+                         `
 }
