@@ -50,8 +50,9 @@ header {
 section {
     background: white;
     border-radius: 10px;
+    text-align: center;
     padding: 15px;
-    width: 1500px;
+    width: 600px;
     margin: auto;
     box-shadow: 3px 3px 10px rgb(71, 70, 70);
     font: normal 15pt sans-serif;
