@@ -302,7 +302,7 @@ function next() {
     res.innerHTML = ""
     sec.style.width = "700px"
     dados.innerHTML =   `<h2>Próximos Passos</h2>
-                         <p>Como um apaixonado por tecnologia, estou sempre me atualizando, irei cursar um MBA em Business Analytics e Big Data. Adoro elaborar soluções criativas e resolver problemas. </p>
-                         <p>Desejo uma oportunidade de utilizar todo o meu potencial para desenvolver grandes projetos que impactem positivamente as pessoas. </p>
+                         <p>Sou apaixonado por tecnologia. Acompanhando o ritmo em que novas soluções e ferramentas surgem, sempre estou me atualizando. Também irei cursar um MBA em Business Analytics e Big Data. </p>
+                         <p>Adoro elaborar soluções criativas e resolver problemas. Desejo uma oportunidade de utilizar todo o meu potencial para desenvolver grandes projetos que impactem positivamente as pessoas. </p>
                          `
 }
