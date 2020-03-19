@@ -24,7 +24,11 @@ function contato() {
                             <img style="width:50px; heigth:50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdG_xBevaQigtgkWJbfEy4tPK09B8XJwM2Y43kxsMCswDkwERN&s" alt=""> 
                             (11)94472-3018
                         </p>
+<<<<<<< HEAD
                         <p style="padding-left:50px"><h4 style="padding-left:15px"><a href="mailto:drivaspedro@gmail.com">drivaspedro@gmail.com</a></h4></p>
+=======
+                        <p style="padding-left:50px"><h4 style="padding-left:15px">drivaspedro@gmail.com</h4></p>
+>>>>>>> master
                         <p>
                             <img style="width:50px; heigth:50px" src="data:image/png;base64,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" alt="">
                             <a href="https://www.linkedin.com/in/pedro-drivas-bb2b6694/">linkedin/pedro-drivas</a>
@@ -34,11 +38,17 @@ function contato() {
 function resumo() {
     sec.style.width = "650px"
     res.innerHTML = ""
+<<<<<<< HEAD
     dados.innerHTML =   `<h3><b>Resumo</b></h3>
                          <p>Experiência de 4 anos em atividades administrativas e elaboração de projetos técnicos de engenharia, sendo 1 ano na área de prevenção e combate a incêncio e pânico e 3 anos em HVAC.</p>
                          <p>Atuando desde 04/2018 com ERP TOTVS Protheus, desenvolvendo rotinas específicas para atender a necessidade de clientes e tendo contato diário com lógica de negócio e tecnologias de modelos de dados, Web Services, API, Cloud e Frameworks de desenvolvimento.</p>
                          <p>Minhas experiências de vida e aptidões me transformaram em uma pessoa inconformada, apaixonada por tecnologia e de perfil analítico. Não tenho medo de errar e adoro desenvolver soluções criativas.</p>                   
                          <p>Gosto de compartilhar conhecimentos e tenho a característica de criar laços facilmente com as pessoas que eu convivo. </p>`
+=======
+    dados.innerHTML =   `<p>Experiência de 4 anos em atividades administrativas e elaboração de projetos técnicos de engenharia, sendo 1 ano na área de prevenção e combate a incêncio e pânico e 3 anos em HVAC.</p>
+    <p>Atuando desde 04/2018 com ERP TOTVS Protheus, desenvolvendo rotinas específicas para atender a necessidade de clientes e tendo contato diário com lógica de negócio e tecnologias de modelos de dados, Web Services, API, Cloud e Frameworks de desenvolvimento.</p>
+                        `
+>>>>>>> master
 }
 
 function exp(){
@@ -232,7 +242,11 @@ function habil() {
                        </div>
                        <div class="col">
                             <div class="progress">
+<<<<<<< HEAD
                             <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 65%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+=======
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 75%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+>>>>>>> master
                             </div>
                        </div>
                        </div> <br>
@@ -243,7 +257,11 @@ function habil() {
                        </div>
                        <div class="col">
                             <div class="progress">
+<<<<<<< HEAD
                             <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 80%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+=======
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 85%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+>>>>>>> master
                             </div>
                        </div>
                        </div> <br>
@@ -254,7 +272,11 @@ function habil() {
                        </div>
                        <div class="col">
                             <div class="progress">
+<<<<<<< HEAD
                             <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 30%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+=======
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 40%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+>>>>>>> master
                             </div>
                        </div>
                        </div> <br>
@@ -265,29 +287,49 @@ function habil() {
                        </div>
                        <div class="col">
                             <div class="progress">
+<<<<<<< HEAD
                             <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 40%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+=======
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 70%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+>>>>>>> master
                             </div>
                        </div>
                        </div> <br>
                        
                        <div class="row">
                        <div class="col">
+<<<<<<< HEAD
                            <b>BootStrap</b>
                        </div>
                        <div class="col">
                             <div class="progress">
                             <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 50%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+=======
+                           <b>ERP</b>
+                       </div>
+                       <div class="col">
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 75%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+>>>>>>> master
                             </div>
                        </div>
                        </div> <br> 
                        
                        <div class="row">
                        <div class="col">
+<<<<<<< HEAD
                            <b>AutoCad</b>
                        </div>
                        <div class="col">
                             <div class="progress">
                             <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 85%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+=======
+                           <b>WordPress</b>
+                       </div>
+                       <div class="col">
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 50%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+>>>>>>> master
                             </div>
                        </div>
                        </div>`
@@ -303,8 +345,14 @@ function idioma() {
 function next() {
     res.innerHTML = ""
     sec.style.width = "700px"
+<<<<<<< HEAD
     dados.innerHTML =   `<h2><b>Próximos Passos</b></h2>
                          <p>Acompanhando o ritmo em que novas soluções e ferramentas surgem, sempre estou me atualizando. Como parte dessa estratégia, tenho o objetivo de cursar um MBA em Business Analytics e Big Data. </p>
                          <p>Busco uma oportunidade de utilizar todo o meu potencial para ser responsável pelo desenvolvimento de grandes projetos que melhorem a qualidade de vida das pessoas. </p>
+=======
+    dados.innerHTML =   `<h2>Próximos Passos</h2>
+                         <p>Como um apaixonado por tecnologia, estou sempre me atualizando, irei cursar um MBA em Business Analytics e Big Data. Adoro desenvolver soluções criativas e resolver problemas. </p>
+                         <p>Desejo uma oportunidade de utilizar todo o meu potencial para desenvolver grandes projetos que impactem positivamente as pessoas. </p>
+>>>>>>> master
                          `
 }
