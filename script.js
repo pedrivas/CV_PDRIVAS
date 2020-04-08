@@ -4,17 +4,15 @@ var HTML =  dados.innerHTML;
 var radios = {};
 
 function home() {
-    //var contHome = document.getElementById("pills-home");
-    //contHome.innerHTML = 'tESTE COM JAVASCRIPT';
     res.innerHTML = ""
-    sec.style.width = "600px"
+    sec.style.width = "60vw"
     dados.innerHTML = HTML;
 }
 
 function contato() {
     res.innerHTML = ""
     var sec = document.getElementById("sec");
-    sec.style.width = "350px"
+    sec.style.width = "50vw"
     dados.innerHTML = ` <h3>Pedro Drivas</h3>
                         <p>
                             <img style="width:50px; heigth:50px" src="data:image/png;base64,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" alt=""> 
@@ -32,7 +30,7 @@ function contato() {
 }
 
 function resumo() {
-    sec.style.width = "650px"
+    sec.style.width = "70vw"
     res.innerHTML = ""
     dados.innerHTML =   `<p>Experiência de 4 anos em atividades administrativas e elaboração de projetos técnicos de engenharia, sendo 1 ano na área de prevenção e combate a incêncio e pânico e 3 anos em HVAC.</p>
     <p>Atuando desde 04/2018 com ERP TOTVS Protheus, desenvolvendo rotinas específicas para atender a necessidade de clientes e tendo contato diário com lógica de negócio e tecnologias de modelos de dados, Web Services, API, Cloud e Frameworks de desenvolvimento.</p>
@@ -40,7 +38,7 @@ function resumo() {
 }
 
 function exp(){
-    sec.style.width = "1000px"
+    sec.style.width = "85vw"
     dados.innerHTML =  `<div class="form-check form-check-inline">
                             <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" onclick="descri()">
                             <label class="form-check-label" for="inlineRadio1">Tecnologia</label>
@@ -100,7 +98,7 @@ function descri() {
 
 function formAcad(){
     res.innerHTML = ""
-    sec.style.width = "400px"
+    sec.style.width = "60vw"
     sec.style.heigth = "500px"
     dados.innerHTML =   `<img style="width:200px; heigth:500px" src="data:image/png;base64,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" alt=""> 
                          <h4><b>Bacharelado em Engenharia de Controle e Automação</b> <br> </h4>
@@ -110,7 +108,7 @@ function formAcad(){
 
 function hobbies(){
     res.innerHTML = ""
-    sec.style.width = "400px"
+    sec.style.width = "50vw"
     sec.style.heigth = "500px"
     dados.innerHTML =   `<div class="accordion" id="accordionExample">
                          <div class="card">
@@ -167,7 +165,7 @@ function hobbies(){
 
 function habil() {
     res.innerHTML = ""
-    sec.style.width = "400px"
+    sec.style.width = "50vw"
     dados.innerHTML = `<div class="container">
                        <div class="row">
                        <div class="col">
@@ -230,7 +228,7 @@ function habil() {
                        </div>
                        <div class="col">
                             <div class="progress">
-                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 65%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 75%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                        </div>
                        </div> <br>
@@ -241,7 +239,7 @@ function habil() {
                        </div>
                        <div class="col">
                             <div class="progress">
-                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 80%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 85%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                        </div>
                        </div> <br>
@@ -252,7 +250,7 @@ function habil() {
                        </div>
                        <div class="col">
                             <div class="progress">
-                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 30%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 40%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                        </div>
                        </div> <br>
@@ -263,29 +261,29 @@ function habil() {
                        </div>
                        <div class="col">
                             <div class="progress">
-                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 40%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 70%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                        </div>
                        </div> <br>
                        
                        <div class="row">
                        <div class="col">
-                           <b>BootStrap</b>
+                           <b>ERP</b>
                        </div>
                        <div class="col">
                             <div class="progress">
-                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 50%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 75%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                        </div>
                        </div> <br> 
                        
                        <div class="row">
                        <div class="col">
-                           <b>AutoCad</b>
+                           <b>WordPress</b>
                        </div>
                        <div class="col">
                             <div class="progress">
-                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 85%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 50%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                        </div>
                        </div>`
@@ -294,13 +292,13 @@ function habil() {
 
 function idioma() {
     res.innerHTML = ""
-    sec.style.width = "400px"
+    sec.style.width = "50vw"
     dados.innerHTML = "<h2>Inglês - Avançado</h2>"
 }
 
 function next() {
     res.innerHTML = ""
-    sec.style.width = "700px"
+    sec.style.width = "70vw"
     dados.innerHTML =   `<h2>Próximos Passos</h2>
                          <p>Como um apaixonado por tecnologia, estou sempre me atualizando, irei cursar um MBA em Business Analytics e Big Data. Adoro desenvolver soluções criativas e resolver problemas. </p>
                          <p>Desejo uma oportunidade de utilizar todo o meu potencial para desenvolver grandes projetos que impactem positivamente as pessoas. </p>
